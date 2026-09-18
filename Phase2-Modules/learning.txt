@@ -1,0 +1,4 @@
+Learnings of Phase - 2:
+-> A Module is a javascript file that contains code intended to be used by another JS file.
+-> This concept is useful when the project directory grows larger and this gives us a modular code.
+1) use of export and import efficiently.
