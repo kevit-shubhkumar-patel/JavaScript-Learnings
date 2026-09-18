@@ -1,0 +1,5 @@
+Learning of Phase 5:
+-> async/await designed to make working with asynchronous operations.
+-> async/await is built on top of Promises.
+-> Every async function returns a promise and await is just pauses execution until a promise resolves or rejects, under the hood is the same engine.
+-> using try/catch is a good practice with async/await so it handles any errors during the execution and saves the overall project from interruptions. 
