@@ -1,0 +1,2 @@
+Learning of Phase 3:
+-> A promise is an object represnting the eventual result of an asynchronous operation.
